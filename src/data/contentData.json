@@ -1,0 +1,296 @@
+{
+  "slides": {
+    "s1": {
+      "id": "s1",
+      "primaryTitle": "Nơi ký ức neo định cuối con đường",
+      "secondaryTitle": "A Road to Me",
+      "images": [
+        {
+          "id": 1,
+          "filename": "/assets/s1_cover_hero_01.jpg",
+          "layout": "Full Background",
+          "aspectRatio": "16:9",
+          "type": "JPG"
+        }
+      ]
+    },
+    "s2": {
+      "id": "s2",
+      "primaryTitle": "I. Điểm khởi hành",
+      "secondaryTitle": "Giới thiệu bản thân & Mục tiêu Portfolio",
+      "content": [
+        "Mỗi con đường đều bắt đầu từ một bước chân. Có những chặng đường đưa ta đến một điểm đến, nhưng cũng có những chặng đường giúp ta hiểu rõ hơn về chính mình. A Road to Me là nơi mình lưu giữ những dấu chân ấy—những trải nghiệm, bài học và cột mốc đã góp phần tạo nên con người của mình hôm nay.",
+        "Xin chào, mình là Hoàng Quốc Hưng (Mei). Hiện tại, mình là sinh viên ngành Ngôn ngữ Anh tại Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội (ULIS – VNU).",
+        "Mình yêu thích hùng biện, đọc sách, nghe nhạc, nhảy múa và khám phá Tarot. Mỗi sở thích đều mở ra cho mình một góc nhìn mới, giúp mình học cách lắng nghe, suy ngẫm và kể những câu chuyện có ý nghĩa.",
+        "Trên con đường này, mình muốn lưu giữ hành trình một năm gắn bó với \"Hùng biện\", đồng thời giới thiệu những sản phẩm và thành quả học tập mà mình đã thực hiện trong học phần \"Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo\". Hy vọng rằng mỗi trang của portfolio sẽ là một dấu mốc nhỏ, ghi lại hành trình trưởng thành và khám phá bản thân của mình."
+      ],
+      "images": [
+        {
+          "id": 2,
+          "filename": "/assets/s2_identity_portrait_01.jpg",
+          "layout": "Split Layout Left",
+          "aspectRatio": "4:5",
+          "type": "JPG"
+        },
+        {
+          "id": 3,
+          "filename": "/assets/s2_identity_hobby_02.png",
+          "layout": "Bento Grid Top Right",
+          "aspectRatio": "1:1",
+          "type": "PNG"
+        },
+        {
+          "id": 4,
+          "filename": "/assets/s2_identity_goal_03.png",
+          "layout": "Bento Grid Bottom Right",
+          "aspectRatio": "1:1",
+          "type": "PNG"
+        },
+        {
+          "id": 23,
+          "filename": "/assets/s2_identity_more_04.jpg",
+          "layout": "Bento Grid Extra",
+          "aspectRatio": "1:1",
+          "type": "JPG"
+        }
+      ]
+    },
+    "s3": {
+      "id": "s3",
+      "primaryTitle": "II. Dấu chân trên hành trình",
+      "secondaryTitle": "Những cột mốc đáng nhớ",
+      "description": "Là một người yêu thích \"Hùng biện\", mình đã bước chân qua rất nhiều chặng đường. Mỗi chặng đường đều để lại những dấu mốc, và mỗi dấu mốc dưới đây là minh chứng cho những nỗ lực, sự kiên trì và quá trình không ngừng học hỏi. Với mình, mỗi thành công không phải là đích đến, mà là động lực để tiếp tục bước về phía trước và khám phá những con đường mới.",
+      "content": [
+        "Quán quân Cuộc thi \"Thủ lĩnh sáng tạo\" do Trường Đại học Ngoại ngữ - ĐHQGHN tổ chức",
+        "Quán quân Cuộc thi Hùng biện Tiếng Anh Eloquence Contest 2026 do Trường Đại học FPT tổ chức",
+        "Quán quân Cuộc thi Olympic Tiếng Anh Hội Máu 2025: Trailblazer",
+        "Giải Nhì Cuộc thi \"Tỏa sáng bản lĩnh ULISer\"",
+        "Giải Nhì Cuộc thi Hùng biện Tiếng Anh The Silver Lining 2026: The Inner Compass",
+        "Quý quân Cuộc thi Hùng biện Tiếng Anh Light Up 2026: The Multiverse",
+        "Quý quân Cuộc thi Hùng biện Olympia: The Sword",
+        "Top 12 Cuộc thi Ngày Hội Diễn Thuyết 2025: Nhân"
+      ],
+      "images": [
+        {
+          "id": 5,
+          "filename": "/assets/s3_award_champion_01.jpg",
+          "layout": "Asymmetric Grid Left Large",
+          "aspectRatio": "4:3",
+          "type": "JPG"
+        },
+        {
+          "id": 6,
+          "filename": "/assets/s3_award_stage_02.jpg",
+          "layout": "Asymmetric Grid Top Right",
+          "aspectRatio": "16:9",
+          "type": "JPG"
+        },
+        {
+          "id": 7,
+          "filename": "/assets/s3_award_moment_03.jpg",
+          "layout": "Asymmetric Grid Bottom Right",
+          "aspectRatio": "16:9",
+          "type": "JPG"
+        }
+      ]
+    },
+    "s4": {
+      "id": "s4",
+      "primaryTitle": "III. Những ngã rẽ trên hành trình",
+      "secondaryTitle": "Hệ thống hóa sản phẩm",
+      "content": [
+        {
+          "title": "Bài tập 1 - Bài 1: Máy tính và các thiết bị ngoại vi",
+          "popupTitle": "Bài tập",
+          "links": [
+            { "text": "Bài tập 1 - Bài 1", "url": "https://docs.google.com/document/d/1pspHw07yTYNZC-c0iT2CdD1YQbvP9_W4xEU2frF2zjU/edit?usp=sharing" }
+          ],
+          "hidePopupIcon": true
+        },
+        {
+          "title": "Bài tập 2 - Bài 2: Khai thác dữ liệu và thông tin",
+          "popupTitle": "Bài tập",
+          "links": [
+            { "text": "Bài tập 1 - Bài 2", "url": "https://docs.google.com/document/d/1XsGm64gVu_US2Dib8UG6XMgxJfzea194o6o4Eb4Hes0/edit?usp=drive_link" },
+            { "text": "Bài tập 2 - Bài 2", "url": "https://docs.google.com/document/d/1dTF1NMgDqNH5lSjQ8p4fjAiGMgifXZgjUdVLSHyvNIg/edit?usp=drive_link" },
+            { "text": "Bài tập 4 - Bài 2", "url": "https://docs.google.com/document/d/17D-QewfeKOeCCU1LHofxR-MdlIV4TK-SrzWlGJdY73M/edit?usp=drive_link" }
+          ],
+          "hidePopupIcon": true
+        },
+        {
+          "title": "Bài tập 2 - Bài 3: Tổng quan về trí tuệ nhân tạo",
+          "popupTitle": "Bài tập",
+          "links": [
+            { "text": "Bài tập 2 - Bài 3", "url": "https://docs.google.com/document/d/1QNPzjVK9j6UdXrWmmRshrYrRTK4eoFY1tP-EucICbEI/edit?usp=sharing" }
+          ],
+          "hidePopupIcon": true
+        },
+        {
+          "title": "Bài tập 3 - Bài 4: Giao tiếp và hợp tác trong môi trường số",
+          "popupTitle": "Bài tập",
+          "links": [
+            { "text": "Bài tập 3 - Bài 4", "url": "https://docs.google.com/document/d/18oKAqAH4hIqvEeI-UHnWZf18YUC_YUgO7i56BPkFlDY/edit?usp=sharing" }
+          ],
+          "hidePopupIcon": true
+        },
+        {
+          "title": "Bài tập 2 - Bài 5: Sáng tạo nội dung số",
+          "popupTitle": "Bài tập",
+          "links": [
+            { "text": "Bài tập 2 - Bài 5", "url": "https://docs.google.com/document/d/18V1qT7X6OlZHBT83K9r5olCr0IVmu_mrqdYdFyohOiM/edit?usp=sharing" }
+          ],
+          "hidePopupIcon": true
+        },
+        {
+          "title": "Bài tập 4 - Bài 6: An toàn và liêm chính học thuật trong môi trường số",
+          "popupTitle": "Bài tập",
+          "links": [
+            { "text": "Bài tập 4 - Bài 6", "url": "https://docs.google.com/document/d/1OZCOoitwc6sJ61MaA2i87SxQ0DkK6d3k5nZEWCGTISs/edit?usp=sharing" }
+          ],
+          "hidePopupIcon": true
+        }
+      ],
+      "images": [
+        {
+          "id": 8,
+          "filename": "/assets/s4_project_hw1_01.png",
+          "layout": "Bento Grid 1",
+          "aspectRatio": "1:1",
+          "type": "PNG"
+        },
+        {
+          "id": 9,
+          "filename": "/assets/s4_project_hw2_02.png",
+          "layout": "Bento Grid 2",
+          "aspectRatio": "1:1",
+          "type": "PNG"
+        },
+        {
+          "id": 10,
+          "filename": "/assets/s4_project_hw3_03.png",
+          "layout": "Bento Grid 3",
+          "aspectRatio": "1:1",
+          "type": "PNG"
+        },
+        {
+          "id": 11,
+          "filename": "/assets/s4_project_hw4_04.png",
+          "layout": "Bento Grid 4",
+          "aspectRatio": "1:1",
+          "type": "PNG"
+        },
+        {
+          "id": 12,
+          "filename": "/assets/s4_project_hw5_05.png",
+          "layout": "Bento Grid 5",
+          "aspectRatio": "1:1",
+          "type": "PNG"
+        },
+        {
+          "id": 13,
+          "filename": "/assets/s4_project_hw6_06.png",
+          "layout": "Bento Grid 6",
+          "aspectRatio": "1:1",
+          "type": "PNG"
+        }
+      ]
+    },
+    "s5": {
+      "id": "s5",
+      "primaryTitle": "IV. Trạm dừng chân",
+      "secondaryTitle": "Trải nghiệm, Kỹ năng & Đúc kết cá nhân",
+      "content": [
+        {
+          "q": "Câu hỏi 1: Hãy chia sẻ kinh nghiệm và cảm nhận cá nhân của bạn về quá trình thực hiện Portfolio này.",
+          "a": "Mình cảm thấy quá trình thực hiện Portfolio là một trải nghiệm rất ý nghĩa vì giúp mình nhìn lại toàn bộ những gì đã học và sự tiến bộ của bản thân trong suốt học phần. Ban đầu, mình gặp một số khó khăn trong việc sắp xếp tài liệu và trình bày nội dung một cách logic, nhưng càng thực hiện, mình càng hiểu rõ hơn những gì mình đã học được. Portfolio không chỉ là nơi lưu giữ sản phẩm học tập mà còn giúp mình tự đánh giá điểm mạnh, điểm cần cải thiện và định hướng cho việc học trong tương lai."
+        },
+        {
+          "q": "Câu hỏi 2: Bạn đã học được kỹ năng gì sau quá trình này?",
+          "a": "Sau quá trình thực hiện Portfolio, mình rèn luyện được kỹ năng tự học, tự phản ánh (self-reflection), quản lý thời gian và sắp xếp thông tin một cách khoa học. Bên cạnh đó, mình cũng cải thiện kỹ năng trình bày nội dung, sử dụng các công cụ thiết kế và tổng hợp kiến thức từ nhiều nguồn để tạo nên một sản phẩm hoàn chỉnh."
+        },
+        {
+          "q": "Câu hỏi 3: Bạn tâm đắc nhất điều gì và cảm thấy thách thức ở điều gì trong quá trình thực hiện Portfolio?",
+          "a": "Điều mình tâm đắc nhất là Portfolio giúp mình tổng kết được sự tiến bộ của bản thân qua từng giai đoạn học tập, thay vì chỉ tập trung vào kết quả cuối cùng. Ngoài ra, đây cũng là một cách để mình lưu trữ những dự án nhỏ trong học phần này của mình. Thách thức lớn nhất là việc lựa chọn những nội dung tiêu biểu và trình bày chúng một cách súc tích nhưng vẫn thể hiện đầy đủ quá trình học tập. Tuy nhiên, chính thử thách đó đã giúp mình rèn luyện khả năng chọn lọc thông tin và tư duy phản biện."
+        }
+      ],
+      "images": [
+        {
+          "id": 14,
+          "filename": "/assets/s5_reflection_mood_01.jpg",
+          "layout": "Sticky Scroll Left",
+          "aspectRatio": "4:5",
+          "type": "JPG"
+        },
+        {
+          "id": 15,
+          "filename": "/assets/s5_reflection_q1_02.svg",
+          "layout": "Before A1",
+          "aspectRatio": "1:1",
+          "type": "SVG"
+        },
+        {
+          "id": 16,
+          "filename": "/assets/s5_reflection_q2_03.svg",
+          "layout": "Before A2",
+          "aspectRatio": "1:1",
+          "type": "SVG"
+        },
+        {
+          "id": 17,
+          "filename": "/assets/s5_reflection_q3_04.svg",
+          "layout": "Before A3",
+          "aspectRatio": "1:1",
+          "type": "SVG"
+        }
+      ]
+    },
+    "s6": {
+      "id": "s6",
+      "primaryTitle": "V. Điểm tới tiếp theo",
+      "secondaryTitle": "Kết nối với mình",
+      "content": [
+        {
+          "label": "Email: hungquochoang1812@gmail.com"
+        },
+        {
+          "label": "Hoàng Quốc Hưng (Mei)",
+          "link": "https://www.facebook.com/hoang.q.hung.1812"
+        },
+        {
+          "label": "_qchng.uo_",
+          "link": "https://www.instagram.com/_qchng.uo_/?hl=en"
+        }
+      ],
+      "images": [
+        {
+          "id": 18,
+          "filename": "/assets/s6_contact_avatar_01.png",
+          "layout": "Center Top Avatar",
+          "aspectRatio": "1:1",
+          "type": "PNG"
+        },
+        {
+          "id": 19,
+          "filename": "/assets/s6_contact_email_02.svg",
+          "layout": "Button 1",
+          "aspectRatio": "1:1",
+          "type": "SVG"
+        },
+        {
+          "id": 20,
+          "filename": "/assets/s6_contact_fb_04.svg",
+          "layout": "Button 3",
+          "aspectRatio": "1:1",
+          "type": "SVG"
+        },
+        {
+          "id": 21,
+          "filename": "/assets/s6_contact_ig_05.svg",
+          "layout": "Button 4",
+          "aspectRatio": "1:1",
+          "type": "SVG"
+        }
+      ]
+    }
+  }
+}
